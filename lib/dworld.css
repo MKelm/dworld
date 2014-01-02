@@ -43,7 +43,7 @@ canvas { position: fixed; }
 }
 
 #dwWindowLayer #invTitle {
-  margin: 0.5em 10em;
+  margin: 0.8em 10em;
 }
 #dwWindowLayer #invContent {
   margin: 0 3em;
