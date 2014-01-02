@@ -1,0 +1,8 @@
+{
+  "items" : [
+    { "handle": "bread" },
+    { "handle": "bread_red" },
+    { "handle": "bread_green" },
+    { "handle": "bread_blue" }
+  ]
+}
