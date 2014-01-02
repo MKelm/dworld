@@ -16,17 +16,17 @@ canvas { position: fixed; }
 
 /* html templates */
 #tplPreviewHeader {
-  border-bottom: 1px solid #FFF;
-  padding: 5px;
+  padding: 0.5em;
 }
 #tplPreviewHeader h2 {
   display: inline;
   font-size: 1em;
 }
 #tplPreviewHeader input {
-  border: 1px solid #FFF;
+  border: 0.2em solid #FFF;
   background-color: #000;
   color: #FFF;
+  padding: 0.15em;
 }
 
 #dwWindowLayer {
@@ -40,4 +40,32 @@ canvas { position: fixed; }
   height: 80%;
   margin-top: -28%;
   margin-left: -40%;
+}
+
+#dwWindowLayer #invTitle {
+  margin: 0.5em 10em;
+}
+#dwWindowLayer #invContent {
+  margin: 0 3em;
+  border-bottom: none;
+  border-right: none;
+  width: 30.635em;
+}
+#dwWindowLayer #invContent .invContentRow {
+  display: block;
+  clear: both;
+}
+#dwWindowLayer #invContent .invContentRow.first {
+  border-top: 1px solid #000;
+}
+#dwWindowLayer #invContent .invContentCell {
+  display: block;
+  float: left;
+  width: 3em;
+  height: 3em;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+#dwWindowLayer #invContent .invContentCell.first {
+  border-left: 1px solid #000;
 }
