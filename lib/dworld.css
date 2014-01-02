@@ -1,7 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #000000;
+  background-color: #000;
+  color: #FFF;
+  font-size: 1em;
 }
 canvas { position: fixed; }
 .audio {
@@ -10,4 +12,32 @@ canvas { position: fixed; }
   right: 2px;
   display: hidden;
   z-index: 1;
+}
+
+/* html templates */
+#tplPreviewHeader {
+  border-bottom: 1px solid #FFF;
+  padding: 5px;
+}
+#tplPreviewHeader h2 {
+  display: inline;
+  font-size: 1em;
+}
+#tplPreviewHeader input {
+  border: 1px solid #FFF;
+  background-color: #000;
+  color: #FFF;
+}
+
+#dwWindowLayer {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  color: #000;
+  background-color: #FFF;
+  opacity: 0.7;
+  width: 80%;
+  height: 80%;
+  margin-top: -28%;
+  margin-left: -40%;
 }
