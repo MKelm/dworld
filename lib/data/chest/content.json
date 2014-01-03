@@ -1,8 +1,8 @@
 {
   "items" : [
-    { "handle": "bread", "hint": "Normal bread, +10 health" },
-    { "handle": "bread_green", "hint": "Green bread, removes poisoning" },
-    { "handle": "bread_blue", "hint": "Blue bread, +10 health / +10 mana" },
-    { "handle": "bread_red", "hint": "Red bread, +20 health / +20 mana" }
+    { "handle": "bread", "hint": "Normal bread, +5 health / +5 mana", "effects" : { "addHealth": 5, "addMana": 5 } },
+    { "handle": "bread_green", "hint": "Green bread, +15 health, +15 mana", "effects" : { "addHealth": 10, "addMana": 10 } },
+    { "handle": "bread_blue", "hint": "Blue bread, +10 health / +10 mana", "effects" : { "addHealth": 10, "addMana": 10 } },
+    { "handle": "bread_red", "hint": "Red bread, +20 health / +20 mana", "effects" : { "addHealth": 20, "addMana": 20 } }
   ]
 }
