@@ -13,5 +13,8 @@
   ],
   "creatures" : [
     [0, 3, 3], [0, 8, 2], [0, 5, 7]
+  ],
+  "transitions" : [
+    ["cave1", "Cave of dust", 7, 5]
   ]
 }
