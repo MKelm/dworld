@@ -1,3 +1,4 @@
 {
-  "size" : { "width": 3, "height": 3 }
+  "size" : { "width": 3, "height": 3 },
+  "player" : { "x": 0, "y": 2 }
 }
