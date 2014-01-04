@@ -15,6 +15,6 @@
     [0, 4, 2], [0, 2, 8], [0, 7, 7]
   ],
   "transitions" : [
-    ["cave2", "Cave of blood", 8, 4]
+    ["greenland_caveofblood", "Cave of blood", 8, 4]
   ]
 }
