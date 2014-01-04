@@ -12,7 +12,7 @@
     [2, 2, 2, 2, 2, 2, 2, 2, 2, 2 ]
   ],
   "creatures" : [
-    [0, 4, 2], [0, 2, 8], [0, 7, 7]
+    [0, 4, 2], [1, 2, 8], [0, 7, 7]
   ],
   "transitions" : [
     ["greenland_caveofblood", "Cave of blood", 8, 4]

@@ -12,7 +12,7 @@
     [2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
   ],
   "creatures" : [
-    [0, 3, 3], [0, 8, 2], [0, 5, 7]
+    [0, 3, 3], [1, 8, 2], [0, 5, 7]
   ],
   "transitions" : [
     ["greenland_caveofdust", "Cave of dust", 7, 5]
