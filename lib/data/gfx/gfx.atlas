@@ -1,0 +1,117 @@
+
+gfx.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blank
+  rotate: false
+  xy: 0, 0
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blank_dbg
+  rotate: false
+  xy: 728, 52
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+creature_bug
+  rotate: false
+  xy: 0, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+creature_nuao
+  rotate: false
+  xy: 52, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+field_cave
+  rotate: false
+  xy: 104, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+field_chest_dirt
+  rotate: false
+  xy: 156, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+field_chest_grass
+  rotate: false
+  xy: 208, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+field_dirt
+  rotate: false
+  xy: 260, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+field_grass
+  rotate: false
+  xy: 312, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+field_rock
+  rotate: false
+  xy: 364, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+field_tree
+  rotate: false
+  xy: 416, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+item_bread
+  rotate: false
+  xy: 468, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+item_bread_blue
+  rotate: false
+  xy: 520, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+item_bread_green
+  rotate: false
+  xy: 572, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+item_bread_red
+  rotate: false
+  xy: 624, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+player_char
+  rotate: false
+  xy: 676, 3
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
