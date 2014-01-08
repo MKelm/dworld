@@ -5,112 +5,112 @@ filter: Linear,Linear
 repeat: none
 blank
   rotate: false
-  xy: 0, 0
+  xy: 1, 1
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 blank_dbg
   rotate: false
-  xy: 728, 52
+  xy: 729, 53
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 creature_bug
   rotate: false
-  xy: 0, 3
+  xy: 1, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 creature_nuao
   rotate: false
-  xy: 52, 3
+  xy: 53, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 field_cave
   rotate: false
-  xy: 104, 3
+  xy: 105, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 field_chest_dirt
   rotate: false
-  xy: 156, 3
+  xy: 157, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 field_chest_grass
   rotate: false
-  xy: 208, 3
+  xy: 209, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 field_dirt
   rotate: false
-  xy: 260, 3
+  xy: 261, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 field_grass
   rotate: false
-  xy: 312, 3
+  xy: 313, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 field_rock
   rotate: false
-  xy: 364, 3
+  xy: 365, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 field_tree
   rotate: false
-  xy: 416, 3
+  xy: 417, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 item_bread
   rotate: false
-  xy: 468, 3
+  xy: 469, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 item_bread_blue
   rotate: false
-  xy: 520, 3
+  xy: 521, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 item_bread_green
   rotate: false
-  xy: 572, 3
+  xy: 573, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 item_bread_red
   rotate: false
-  xy: 624, 3
+  xy: 625, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 player_char
   rotate: false
-  xy: 676, 3
+  xy: 677, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
