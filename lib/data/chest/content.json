@@ -4,8 +4,8 @@
     { "handle": "bread_green", "hint": "Green bread, +15 health, +15 mana", "effects" : { "addHealth": 10, "addMana": 10 } },
     { "handle": "bread_blue", "hint": "Blue bread, +10 health / +10 mana", "effects" : { "addHealth": 10, "addMana": 10 } },
     { "handle": "bread_red", "hint": "Red bread, +20 health / +20 mana", "effects" : { "addHealth": 20, "addMana": 20 } },
-    { "handle": "scroll_a", "hint": "Scroll: Level A spell, damage 4", "effects" : { "spellDamage": 4 } },
-    { "handle": "scroll_b", "hint": "Scroll: Level B spell, damage 6", "effects" : { "spellDamage": 6 } },
-    { "handle": "scroll_c", "hint": "Scroll: Level C spell, damage 10", "effects" : { "spellDamage": 10 } }
+    { "handle": "scroll_a", "hint": "Scroll: Level A spell, damage 4, costs 6", "effects" : { "spellDamage": 4, "manaCosts": 6 } },
+    { "handle": "scroll_b", "hint": "Scroll: Level B spell, damage 6, costs 8", "effects" : { "spellDamage": 6, "manaCosts": 8 } },
+    { "handle": "scroll_c", "hint": "Scroll: Level C spell, damage 10, costs 12", "effects" : { "spellDamage": 10, "manaCosts": 12 } }
   ]
 }
